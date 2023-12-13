@@ -10,7 +10,7 @@ This repository is for LGDNet
 
 ### DND Dataset
 
-![](image/DND_para_psnr.png)
+![](image/DND_para_psnr.png,width = 60%)
 
 ## Real world image denoising
 
