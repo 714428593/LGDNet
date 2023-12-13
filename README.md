@@ -6,11 +6,11 @@ This repository is for LGDNet
 
 ## Performance
 
-![](image/all_psnr.png#pic_center =80%x80%)
+<img src="image/all_psnr.png" width="210px">
 
 ### PSNR vs. Parameters
 
-![](image/DND_para_psnr.png#pic_center =70%x70%)
+![](image/DND_para_psnr.png)
 
 ## Real world image denoising
 
