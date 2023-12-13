@@ -6,7 +6,7 @@ This repository is for LGDNet
 
 ## Performance
 
-![](image/all_psnr.png)
+![](image/all_psnr.png#pic_center =80%x80%)
 
 ### PSNR vs. Parameters
 
