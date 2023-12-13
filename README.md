@@ -6,7 +6,7 @@ This repository is for LGDNet
 
 ## Performance
 
-<img src="image/all_psnr.png" width="510px">
+<img src="image/all_psnr.png" width="610px">
 
 ### PSNR vs. Parameters
 
