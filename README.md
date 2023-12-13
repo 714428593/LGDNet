@@ -6,7 +6,7 @@ This repository is for LGDNet
 
 ## Performance
 
-![](image/all_psnr.png)
+![](image/all_psnr.png){width=50% height=auto}
 
 ### DND Dataset
 
