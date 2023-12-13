@@ -10,7 +10,7 @@ This repository is for LGDNet
 
 ### PSNR vs. Parameters
 
-![](image/DND_para_psnr.png)
+![](image/DND_para_psnr.png#pic_center =70%x70%)
 
 ## Real world image denoising
 
